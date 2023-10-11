@@ -1,2 +1,2 @@
-# modiprabal.github.io
+# prabalmodi.github.io
 My portfolio
